@@ -17,5 +17,6 @@ This is all of the information that I am doing to setup my study `work` area.
    1. Setup extensions, wsl
 
 ### Licenses
+
 This was my first time dealing with choosing a license myself.
 [choosealicense.com](https://choosealicense.com/) and github's site for [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) were huge helps in choosing my first license being the [MIT LIcense](/LICENSE)
